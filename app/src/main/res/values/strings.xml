@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Spring Client</string>
+    <string name="app_name">SpringClient</string>
     <string name="form_name">Name</string>
     <string name="form_branch">Branch</string>
     <string name="form_location">Location</string>
